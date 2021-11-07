@@ -117,3 +117,9 @@ def test(n_stocks, initial_stock_value, test_init_date, test_end_date):
 
 # Descomentar esta línea para testear el código :D
 #test(6, 1000, datetime.date(2020, 12, 1), datetime.date(2021, 1, 1))
+
+
+"""
+Quise programar la clase Stock y una función de testing a fin de poder probar que mi código funcionase :)
+No sabía que era la rentabilidad anualizada, así que investigué un poco y utilicé la fórmula que encontré en https://www.gestionpasiva.com/como-calcular-rentabilidad-anualizada-inversion/ (perdón si no era esa D:)
+"""
